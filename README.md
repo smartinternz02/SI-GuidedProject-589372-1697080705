@@ -9,7 +9,7 @@ An Android app written in Kotlin that seeks to provide breaking news straight to
 ## Team Members
 
 - [@VarunSapra](https://github.com/Varun0607) - (21BCE10224) [_Team Leader_]
-- [@Aditya Harsh](https://github.com/) (21BCE10346)
+- [@Aditya Harsh](https://github.com/Thakur-Aditya-Harsh) (21BCE10346)
 - [@Aditya Zaveri](https://github.com/zaveriiadi) (21BCE10323)
 - [@Shwetambara Sahay](https://github.com/ShwetambaraSahay) (21BCE10591)
 
